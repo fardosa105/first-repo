@@ -1,0 +1,18 @@
+h1{ font-style: italic; 
+    #header{color: aqua;}
+    text-align: center;
+color: blue;
+}
+h6{
+    color: rgb(42, 165, 58);
+}
+img{
+    border-radius: 50px;
+}
+#header{
+    color: black;
+    text-align: center;
+}
+.wrapper{
+    color: blue;
+}
